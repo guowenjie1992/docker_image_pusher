@@ -1,1 +1,1 @@
-vaultwarden/server
+vaultwarden/server:latest
